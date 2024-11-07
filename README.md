@@ -40,19 +40,25 @@ El programa mostrará el valor convertido según la tasa de cambio actual.
 Ejemplo de ejecución:
 
 Bienvenido al Convertidor de Divisas
+
 Seleccione la divisa de origen:
 1. USD - Dólar estadounidense
 2. EUR - Euro
 3. COP - Peso colombiano
 4. MXN - Peso mexicano
+
 Seleccione una opción: 1
+
 Seleccione la divisa de destino:
 1. USD - Dólar estadounidense
 2. EUR - Euro
 3. COP - Peso colombiano
 4. MXN - Peso mexicano
+   
 Seleccione una opción: 2
+
 Ingrese la cantidad a convertir: 100
+
 100.00 USD son 85.34 EUR
    
 Apartado de Ayuda
